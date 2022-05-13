@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.0aea3e78.css",
-    "main.js": "/static/js/main.cf1e45da.js",
-    "index.html": "/index.html",
-    "main.0aea3e78.css.map": "/static/css/main.0aea3e78.css.map",
-    "main.cf1e45da.js.map": "/static/js/main.cf1e45da.js.map"
+    "main.css": "/dlopesjr/primeflix/static/css/main.0aea3e78.css",
+    "main.js": "/dlopesjr/primeflix/static/js/main.cf1e45da.js",
+    "index.html": "/dlopesjr/primeflix/index.html",
+    "main.0aea3e78.css.map": "/dlopesjr/primeflix/static/css/main.0aea3e78.css.map",
+    "main.cf1e45da.js.map": "/dlopesjr/primeflix/static/js/main.cf1e45da.js.map"
   },
   "entrypoints": [
     "static/css/main.0aea3e78.css",
