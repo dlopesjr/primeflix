@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/primeflix/static/css/main.0aea3e78.css",
-    "main.js": "/primeflix/static/js/main.cf1e45da.js",
+    "main.js": "/primeflix/static/js/main.615056ae.js",
     "index.html": "/primeflix/index.html",
     "main.0aea3e78.css.map": "/primeflix/static/css/main.0aea3e78.css.map",
-    "main.cf1e45da.js.map": "/primeflix/static/js/main.cf1e45da.js.map"
+    "main.615056ae.js.map": "/primeflix/static/js/main.615056ae.js.map"
   },
   "entrypoints": [
     "static/css/main.0aea3e78.css",
-    "static/js/main.cf1e45da.js"
+    "static/js/main.615056ae.js"
   ]
 }
